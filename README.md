@@ -28,7 +28,7 @@ ReportLab para generación de informes en PDF
 
 Clona este repositorio o descarga el proyecto:
 
-git clone (https://github.com/Vanne-Rbg/Challenge_TelecomX/new/main?filename)
+git clone (https://github.com/ingridcristh/challenge2-data-science-LATAM)
 
 Crea un entorno virtual (opcional pero recomendado):
 
